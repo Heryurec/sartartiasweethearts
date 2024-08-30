@@ -172,6 +172,8 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
+  "New Update to this website at 4:50 PM CDT",
+  "Downtime expected", 
   "Over 8 Million Users since 2023",
   "Fastest growing proxy server",
   "Made by xBubbo",
